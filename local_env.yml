@@ -1,0 +1,11 @@
+name: makemore
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - tqdm
+  - pytorch
+  - torchvision
+  - jupyter
